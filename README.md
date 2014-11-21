@@ -5,8 +5,6 @@ Go Question and Answer using IBM Watson on Bluemix
 
 ## General Requirements
 
-You'll need Go environment, Godep and Martini
-
 * [Go](http://golang.org/)
 * [Godep](https://github.com/tools/godep)
 * [Martini](http://martini.codegangsta.io/)
