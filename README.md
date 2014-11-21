@@ -23,7 +23,7 @@ It's possible to create a new Bluemix app via CF with the following command:
 
 ### Pushing code and Running
 
-* Remember to edit Procfile, .godir and Manifest.yml with the own names
+* Remember to edit Procfile, .godir and Manifest.yml with the proper names
 * Run the following command 
   fvitullo/go-qa-example$ go install 
   fvitullo/go-qa-example$ godep save
