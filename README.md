@@ -3,6 +3,10 @@ go-question-and-answer-ibm-watson-on-bluemix
 
 Go Question and Answer using IBM Watson on Bluemix
 
+## DEMO
+
+[Go Question and Answer Watson on Bluemix](http://go-qa-watson-example.mybluemix.net/)
+
 ## General Requirements
 
 * [Go](http://golang.org/)
