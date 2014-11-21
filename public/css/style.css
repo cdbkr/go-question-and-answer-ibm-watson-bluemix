@@ -1,0 +1,19 @@
+/* style.css
+ * This file provides css styles.
+ */
+.feedback {
+    text-decoration: none;
+    margin: 5px;
+}
+
+.feedbackDiv {
+    text-align: right;
+    color: #9E9E9E;
+    font-size: 12px;
+    float: right;
+}
+.confidenceDiv {
+    float: left;
+    text-align: right;
+    font-size: 12px;
+}

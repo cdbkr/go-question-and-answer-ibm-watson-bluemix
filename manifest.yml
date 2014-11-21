@@ -1,0 +1,8 @@
+---
+applications:
+- name: go-qa-watson-example
+  instances: 1
+  host: go-qa-watson-example
+  domain: mybluemix.net
+  memory: 128M
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
